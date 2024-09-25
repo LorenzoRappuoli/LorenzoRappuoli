@@ -30,5 +30,5 @@ Feel free to reach out if you want to collaborate or just have a chat!
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Figure-ai-logo.svg" alt="ai" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="ml" width="40" height="40"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/business-analytics-icon/business-analytics-icon.png" alt="business-intelligence" alt="business-intelligence" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank" rel="noreferrer"> <img src="https://static.thenounproject.com/png/2245627-200.png" alt="business-intelligence" alt="business-intelligence" width="40" height="40"/> </a>
 </p>
