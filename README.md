@@ -20,7 +20,7 @@ Feel free to reach out if you want to collaborate or just have a chat!
 
 ## Connect with me
 
-- 📫  **albano.persechino@gmail.com**
+- 📫  **lorenzo.rappuoli@hotmail.com**
     
 - <a href="https://www.linkedin.com/in/lorenzo-rappuoli-4a0a75b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=lorenzo-rappuoli-4a0a75b7/" height="30" width="40" /></a>
 </p>
