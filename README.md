@@ -28,6 +28,6 @@ Feel free to reach out if you want to collaborate or just have a chat!
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/204445/artificial-intelligence.svg" alt="ai" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_intelligence.svg" alt="ai" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374013/machine-learning.svg" alt="ml" width="40" height="40"/> </a>
 </p>
