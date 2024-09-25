@@ -1,14 +1,13 @@
 # Hi, I'm Lorenzo 👋
 
 ## About Me
-- 🧑‍💻 Backend developer in training
+- 🧑‍💻 BI & Data Specialist
 - 🎂 30 years old
 - 🏠 Living in Udine, a charming city in Friuli - Venezia Giulia, Italy
 
 ## What I'm Up To
-- 📚 Currently taking a backend development course with Develhope
+- 📚 Currently working at BIP, a management consulting firm
 - 🌱 Learning new technologies and improving my programming skills
-- 🚀 Excited to embark on this new adventure in the world of software development
 
 ## Interests
 - 💻 Passionate about technology
