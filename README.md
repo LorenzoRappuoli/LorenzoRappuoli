@@ -37,7 +37,6 @@ Feel free to reach out if you want to collaborate or just have a chat!
 <br/>
 
 <a href="https://github.com/LorenzoRappuoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenzoRappuoli&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoRappuoli&theme=buefy&layout=compact" />
 </a>
 
