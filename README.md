@@ -33,3 +33,12 @@ Feel free to reach out if you want to collaborate or just have a chat!
     <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank" rel="noreferrer"> <img src="https://static.thenounproject.com/png/2245627-200.png" alt="business-intelligence" alt="business-intelligence" width="40" height="40"/> </a>
     <a href="https://www.qlik.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" alt="qlik-sense" width="40" height="40"/> </a>
 </p>
+
+<br/>
+
+<a href="https://github.com/Ilaria-93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ilaria-93&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilaria-93&theme=buefy&layout=compact" />
+</a>
+
+<br/>
