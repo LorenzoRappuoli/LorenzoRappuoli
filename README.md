@@ -2,8 +2,9 @@
 
 ## About Me
 - 🧑‍💻 BI & Data Specialist
-- 🎂 30 years old
-- 🏠 Living in Udine, a charming city in Friuli - Venezia Giulia, Italy
+- 🎂 Born in 1993
+- 🏠 Living in Italy
+- 🚀 Worked in Reply and EY as a Senior Data Consultant
 
 ## What I'm Up To
 - 📚 Currently working at BIP, a management consulting firm
