@@ -5,8 +5,6 @@
 - 🎂 Born in 1993
 - 🏠 Living in Italy
 - 🚀 Worked in Reply and EY as a Senior Data Consultant
-
-## What I'm Up To
 - 📚 Currently working at BIP, a management consulting firm
 - 🌱 Learning new technologies and improving my programming skills
 
